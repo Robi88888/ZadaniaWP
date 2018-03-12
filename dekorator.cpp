@@ -20,6 +20,7 @@ public:
 	}
 };
 
+//dekorator
 class Dekorator : public Gra {
 
 	public:
@@ -28,6 +29,24 @@ class Dekorator : public Gra {
 		}
 };
 
+//przyk³adowe gry
+class RPG : public Gra {
+
+	public:
+		RPG() :Gra() {
+			Gra = "RPG";
+			koszt = 149;
+		}
+};
+
+class FPS : public Gra {
+
+public:
+	FPS() :Gra() {
+		Gra = "FPS";
+		koszt = 189;
+	}
+};
 
 int main() {
 
