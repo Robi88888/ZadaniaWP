@@ -15,7 +15,19 @@ public:
 		koszt = 0;
 	}
 
+	virtual string about() {
+		return gra;
+	}
 };
+
+class Dekorator : public Gra {
+
+	public:
+		virtual string about() {
+			return "Main Level";
+		}
+};
+
 
 int main() {
 
