@@ -39,7 +39,7 @@ class RPG : public Gra {
 
 public:
 	RPG() :Gra() {
-		Gra = "RPG";
+		gra = "RPG ";
 		koszt = 149;
 	}
 };
@@ -48,7 +48,7 @@ class FPS : public Gra {
 
 public:
 	FPS() :Gra() {
-		Gra = "FPS";
+		gra = "FPS ";
 		koszt = 189;
 	}
 };
@@ -62,7 +62,7 @@ public: ExtraLevel(Gra *gra) :Dekorator() {
 }
 
 		string about() {
-			return game->about() + "Dodatkowa mapa!";
+			return game->about() + " Dodatkowa mapa!";
 	}
 
 		double cena() {
@@ -78,7 +78,7 @@ public: ExtraWeapon(Gra *gra) :Dekorator() {
 }
 
 		string about() {
-			return game->about() + "Dodatkowa broñ!";
+			return game->about() + " Dodatkowa broñ!";
 		}
 
 		double cena() {
@@ -87,5 +87,19 @@ public: ExtraWeapon(Gra *gra) :Dekorator() {
 };
 
 int main() {
+
+	Gra *g1 = new RPG();
+	Gra *g2 = new FPS();
+
+	cout << g1->about() << " " << g1->cena() << endl;
+	cout << g2->about() << " " << g2->cena() << endl;
+
+	g1 = new ExtraLevel(g1);
+	g2 = new ExtraLevel(g2);
+
+	g2 = new ExtraWeapon(g2);
+
+	cout << g1->about() << " " << g1->cena() << endl;
+	cout << g2->about() << " " << g2->cena() << endl;
 
 }
