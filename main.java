@@ -1,17 +1,14 @@
 package java;
 
-public class main {
-
-	public static void main(String[] args) {
-		
-		singleton.getInstance().addToList("1");
-		singleton.getInstance().addToList("2");
-		singleton.getInstance().addToList("3");
-		singleton.getInstance().addToList("4");
-		System.out.println(singleton.getInstance().getList());
-		singleton.getInstance().removeFromList(0);
-		System.out.println(singleton.getInstance().getList());
-		
+class main {
+	static void main(String[] args) {
+		singleton.getObject().add("1");
+		singleton.getObject().add("2");
+		singleton.getObject().add("3");
+		System.out.println(singleton.getObject().getList());
+		singleton.getObject().remove(0);
+		System.out.println(singleton.getObject().getList());
+                singleton.getObject().add("4");
+                System.out.println(singleton.getObject().getList());  
 	}
-
 }
