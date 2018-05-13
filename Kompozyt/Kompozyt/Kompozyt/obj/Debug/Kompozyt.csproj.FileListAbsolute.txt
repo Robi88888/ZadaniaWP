@@ -1,0 +1,15 @@
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\obj\Debug\Kompozyt.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\obj\Debug\Kompozyt.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\bin\Debug\Kompozyt.exe.config
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\bin\Debug\Kompozyt.exe
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\bin\Debug\Kompozyt.pdb
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\bin\Debug\mscorlib.dll
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\bin\Debug\pl\mscorlib.resources.dll
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\bin\Debug\normidna.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\bin\Debug\normnfc.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\bin\Debug\normnfd.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\bin\Debug\normnfkc.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\bin\Debug\normnfkd.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\obj\Debug\Kompozyt.csproj.CopyComplete
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\obj\Debug\Kompozyt.exe
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Kompozyt\Kompozyt\Kompozyt\obj\Debug\Kompozyt.pdb
