@@ -1,0 +1,15 @@
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\obj\Debug\Fasada.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\obj\Debug\Fasada.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\bin\Debug\Fasada.exe.config
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\bin\Debug\Fasada.exe
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\bin\Debug\Fasada.pdb
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\bin\Debug\mscorlib.dll
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\bin\Debug\pl\mscorlib.resources.dll
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\bin\Debug\normidna.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\bin\Debug\normnfc.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\bin\Debug\normnfd.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\bin\Debug\normnfkc.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\bin\Debug\normnfkd.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\obj\Debug\Fasada.csproj.CopyComplete
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\obj\Debug\Fasada.exe
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\Fasada\Fasada\Fasada\obj\Debug\Fasada.pdb
