@@ -1,0 +1,15 @@
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\LancuchZobowiazan.exe.config
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\LancuchZobowiazan.exe
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\LancuchZobowiazan.pdb
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\mscorlib.dll
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\pl\mscorlib.resources.dll
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\normidna.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\normnfc.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\normnfd.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\normnfkc.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\bin\Debug\normnfkd.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\LancuchZobowiazan.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\LancuchZobowiazan.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\LancuchZobowiazan.csproj.CopyComplete
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\LancuchZobowiazan.exe
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\LancuchZobowiazan\LancuchZobowiazan\LancuchZobowiazan\obj\Debug\LancuchZobowiazan.pdb
