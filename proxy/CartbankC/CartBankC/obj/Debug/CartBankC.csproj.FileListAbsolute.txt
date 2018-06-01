@@ -1,0 +1,15 @@
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\obj\Debug\CartBankC.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\obj\Debug\CartBankC.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\bin\Debug\CartBankC.exe.config
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\bin\Debug\CartBankC.exe
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\bin\Debug\CartBankC.pdb
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\bin\Debug\mscorlib.dll
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\bin\Debug\pl\mscorlib.resources.dll
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\bin\Debug\normidna.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\bin\Debug\normnfc.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\bin\Debug\normnfd.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\bin\Debug\normnfkc.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\bin\Debug\normnfkd.nlp
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\obj\Debug\CartBankC.csproj.CopyComplete
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\obj\Debug\CartBankC.exe
+C:\Users\Robert\Desktop\Studia\IV semestr\WP\ZadaniaWP\proxy\CartbankC\CartBankC\obj\Debug\CartBankC.pdb
